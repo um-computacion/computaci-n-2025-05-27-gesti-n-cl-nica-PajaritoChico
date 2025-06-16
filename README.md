@@ -4,9 +4,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: Diaz Juan Jesus
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: Ingenieria Informatica
 
 ## ⏰ Información Importante sobre la Entrega
 
